@@ -1,0 +1,985 @@
+2021-01-15 14:51:11,672: root :INFO:Reading file : start
+2021-01-15 14:51:29,698: root :INFO:Reading file : start
+2021-01-15 14:51:29,726: root :INFO:reading file : end
+2021-01-15 14:51:58,424: root :INFO:Reading file : start
+2021-01-15 14:51:58,451: root :INFO:reading file : end
+2021-01-15 15:03:53,803: root :INFO:This is an info:
+2021-01-15 15:03:53,804: root :ERROR:This is an erro:
+2021-01-15 15:03:53,805: root :INFO:Reading file : start
+2021-01-15 15:03:53,834: root :INFO:reading file : end
+2021-01-15 15:03:53,835: root :INFO:Choosing random word : start
+2021-01-15 15:04:14,534: root :INFO:This is an info:
+2021-01-15 15:04:14,534: root :ERROR:This is an erro:
+2021-01-15 15:04:14,534: root :INFO:Reading file : start
+2021-01-15 15:04:14,557: root :INFO:reading file : end
+2021-01-15 15:04:14,557: root :INFO:Choosing random word : start
+2021-01-15 15:04:14,557: root :INFO:Choosing random word : start
+2021-01-15 15:05:24,100: root :INFO:This is an info:
+2021-01-15 15:05:24,100: root :ERROR:This is an erro:
+2021-01-15 15:05:24,100: root :INFO:Reading file : start
+2021-01-15 15:05:24,123: root :INFO:reading file : end
+2021-01-15 15:05:24,123: root :INFO:Choosing random word : start
+2021-01-15 15:05:24,123: root :INFO:Choosing random word : start
+2021-01-15 15:11:48,861: root :INFO:This is an info:
+2021-01-15 15:11:48,862: root :ERROR:This is an erro:
+2021-01-15 15:11:48,863: root :INFO:Reading file : start
+2021-01-15 15:11:48,893: root :INFO:reading file : end
+2021-01-15 15:11:48,893: root :INFO:Choosing random word : start
+2021-01-15 15:11:48,893: root :INFO:Choosing random word : start
+2021-01-15 15:12:35,963: root :INFO:This is an info:
+2021-01-15 15:12:35,963: root :ERROR:This is an erro:
+2021-01-15 15:12:35,963: root :INFO:Reading file : start
+2021-01-15 15:12:35,986: root :INFO:reading file : end
+2021-01-15 15:12:35,986: root :INFO:Choosing random word : start
+2021-01-15 15:12:35,987: root :INFO:Choosing random word : start
+2021-01-15 15:13:31,787: root :INFO:This is an info:
+2021-01-15 15:13:31,787: root :ERROR:This is an erro:
+2021-01-15 15:13:31,787: root :INFO:Reading file : start
+2021-01-15 15:13:31,813: root :INFO:reading file : end
+2021-01-15 15:13:31,813: root :INFO:Choosing random word : start
+2021-01-15 15:13:31,814: root :INFO:Choosing random word : start
+2021-01-15 15:14:06,818: root :INFO:This is an info:
+2021-01-15 15:14:06,818: root :ERROR:This is an erro:
+2021-01-15 15:14:06,818: root :INFO:Reading file : start
+2021-01-15 15:14:06,841: root :INFO:reading file : end
+2021-01-15 15:14:06,842: root :INFO:Choosing random word : start
+2021-01-15 15:14:06,842: root :INFO:Choosing random word : start
+2021-01-15 15:26:53,747: root :INFO:This is an info:
+2021-01-15 15:26:53,749: root :ERROR:This is an erro:
+2021-01-15 15:26:53,750: root :INFO:Reading file : start
+2021-01-15 15:26:53,784: root :INFO:reading file : end
+2021-01-15 15:26:53,785: root :INFO:Choosing random word : start
+2021-01-15 15:26:53,785: root :INFO:Choosing random word : start
+2021-01-15 15:27:10,134: root :INFO:This is an info:
+2021-01-15 15:27:10,135: root :ERROR:This is an erro:
+2021-01-15 15:27:10,135: root :INFO:Reading file : start
+2021-01-15 15:27:10,158: root :INFO:reading file : end
+2021-01-15 15:27:10,158: root :INFO:Choosing random word : start
+2021-01-15 15:27:10,158: root :INFO:Choosing random word : start
+2021-01-15 15:27:23,405: root :INFO:This is an info:
+2021-01-15 15:27:23,405: root :ERROR:This is an erro:
+2021-01-15 15:27:23,405: root :INFO:Reading file : start
+2021-01-15 15:27:23,429: root :INFO:reading file : end
+2021-01-15 15:27:23,429: root :INFO:Choosing random word : start
+2021-01-15 15:27:23,429: root :INFO:Choosing random word : start
+2021-01-15 15:33:30,557: root :INFO:This is an info:
+2021-01-15 15:33:30,557: root :ERROR:This is an erro:
+2021-01-15 15:33:30,557: root :INFO:Reading file : start
+2021-01-15 15:33:30,588: root :INFO:reading file : end
+2021-01-15 15:33:30,588: root :INFO:Choosing random word : start
+2021-01-15 15:33:30,588: root :INFO:Choosing random word : start
+2021-01-15 15:33:53,491: root :INFO:This is an info:
+2021-01-15 15:33:53,491: root :ERROR:This is an erro:
+2021-01-15 15:33:53,491: root :INFO:Reading file : start
+2021-01-15 15:33:53,515: root :INFO:reading file : end
+2021-01-15 15:33:53,515: root :INFO:Choosing random word : start
+2021-01-15 15:33:53,515: root :INFO:Choosing random word : start
+2021-01-15 15:34:13,076: root :INFO:This is an info:
+2021-01-15 15:34:13,076: root :ERROR:This is an erro:
+2021-01-15 15:34:13,076: root :INFO:Reading file : start
+2021-01-15 15:34:13,102: root :INFO:reading file : end
+2021-01-15 15:34:13,103: root :INFO:Choosing random word : start
+2021-01-15 15:34:13,103: root :INFO:Choosing random word : start
+2021-01-15 15:34:23,671: root :INFO:This is an info:
+2021-01-15 15:34:23,672: root :ERROR:This is an erro:
+2021-01-15 15:34:23,672: root :INFO:Reading file : start
+2021-01-15 15:34:23,697: root :INFO:reading file : end
+2021-01-15 15:34:23,697: root :INFO:Choosing random word : start
+2021-01-15 15:34:23,697: root :INFO:Choosing random word : start
+2021-01-15 15:34:49,928: root :INFO:This is an info:
+2021-01-15 15:34:49,928: root :ERROR:This is an erro:
+2021-01-15 15:34:49,928: root :INFO:Reading file : start
+2021-01-15 15:34:49,952: root :INFO:reading file : end
+2021-01-15 15:34:49,952: root :INFO:Choosing random word : start
+2021-01-15 15:34:49,952: root :INFO:Choosing random word : start
+2021-01-15 15:38:21,631: root :INFO:This is an info:
+2021-01-15 15:38:21,631: root :ERROR:This is an erro:
+2021-01-15 15:38:21,632: root :INFO:Reading file : start
+2021-01-15 15:38:21,655: root :INFO:reading file : end
+2021-01-15 15:38:21,655: root :INFO:Choosing random word : start
+2021-01-15 15:38:21,655: root :INFO:Choosing random word : start
+2021-01-15 15:38:28,334: root :INFO:This is an info:
+2021-01-15 15:38:28,334: root :ERROR:This is an erro:
+2021-01-15 15:38:28,334: root :INFO:Reading file : start
+2021-01-15 15:38:28,360: root :INFO:reading file : end
+2021-01-15 15:38:28,360: root :INFO:Choosing random word : start
+2021-01-15 15:38:28,360: root :INFO:Choosing random word : start
+2021-01-15 15:38:52,836: root :INFO:This is an info:
+2021-01-15 15:38:52,836: root :ERROR:This is an erro:
+2021-01-15 15:38:52,836: root :INFO:Reading file : start
+2021-01-15 15:38:52,863: root :INFO:reading file : end
+2021-01-15 15:38:52,863: root :INFO:Choosing random word : start
+2021-01-15 15:38:52,863: root :INFO:Choosing random word : start
+2021-01-15 15:38:59,476: root :INFO:This is an info:
+2021-01-15 15:38:59,477: root :ERROR:This is an erro:
+2021-01-15 15:38:59,477: root :INFO:Reading file : start
+2021-01-15 15:38:59,500: root :INFO:reading file : end
+2021-01-15 15:38:59,500: root :INFO:Choosing random word : start
+2021-01-15 15:38:59,500: root :INFO:Choosing random word : start
+2021-01-15 15:59:29,196: root :INFO:This is an info:
+2021-01-15 15:59:29,196: root :ERROR:This is an erro:
+2021-01-15 15:59:29,196: root :INFO:Reading file : start
+2021-01-15 15:59:29,221: root :INFO:reading file : end
+2021-01-15 15:59:29,221: root :INFO:Choosing random word : start
+2021-01-15 15:59:29,221: root :INFO:Choosing random word : start
+2021-01-15 16:20:10,545: root :INFO:This is an info:
+2021-01-15 16:20:10,547: root :ERROR:This is an erro:
+2021-01-15 16:20:10,547: root :INFO:Reading file : start
+2021-01-15 16:20:10,572: root :INFO:reading file : end
+2021-01-15 16:20:10,572: root :INFO:Choosing random word : start
+2021-01-15 16:20:10,572: root :INFO:Choosing random word : start
+2021-01-15 16:20:16,065: root :INFO:This is an info:
+2021-01-15 16:20:16,065: root :ERROR:This is an erro:
+2021-01-15 16:20:16,065: root :INFO:Reading file : start
+2021-01-15 16:20:16,088: root :INFO:reading file : end
+2021-01-15 16:20:16,088: root :INFO:Choosing random word : start
+2021-01-15 16:20:16,088: root :INFO:Choosing random word : start
+2021-01-15 16:20:26,037: root :INFO:This is an info:
+2021-01-15 16:20:26,037: root :ERROR:This is an erro:
+2021-01-15 16:20:26,037: root :INFO:Reading file : start
+2021-01-15 16:20:26,078: root :INFO:reading file : end
+2021-01-15 16:20:26,078: root :INFO:Choosing random word : start
+2021-01-15 16:20:26,078: root :INFO:Choosing random word : start
+2021-01-15 16:31:39,329: root :INFO:This is an info:
+2021-01-15 16:31:39,329: root :ERROR:This is an erro:
+2021-01-15 16:31:39,329: root :INFO:Reading file : start
+2021-01-15 16:31:39,352: root :INFO:reading file : end
+2021-01-15 16:31:39,353: root :INFO:Choosing random word : start
+2021-01-15 16:31:39,353: root :INFO:Choosing random word : start
+2021-01-15 16:32:14,643: root :INFO:This is an info:
+2021-01-15 16:32:14,643: root :ERROR:This is an erro:
+2021-01-15 16:32:14,643: root :INFO:Reading file : start
+2021-01-15 16:32:14,675: root :INFO:reading file : end
+2021-01-15 16:32:14,675: root :INFO:Choosing random word : start
+2021-01-15 16:32:14,675: root :INFO:Choosing random word : start
+2021-01-15 16:32:44,121: root :INFO:This is an info:
+2021-01-15 16:32:44,122: root :ERROR:This is an erro:
+2021-01-15 16:32:44,122: root :INFO:Reading file : start
+2021-01-15 16:32:44,153: root :INFO:reading file : end
+2021-01-15 16:32:44,153: root :INFO:Choosing random word : start
+2021-01-15 16:32:44,153: root :INFO:Choosing random word : start
+2021-01-15 16:33:02,133: root :INFO:This is an info:
+2021-01-15 16:33:02,133: root :ERROR:This is an erro:
+2021-01-15 16:33:02,133: root :INFO:Reading file : start
+2021-01-15 16:33:02,156: root :INFO:reading file : end
+2021-01-15 16:33:02,156: root :INFO:Choosing random word : start
+2021-01-15 16:33:02,157: root :INFO:Choosing random word : start
+2021-01-15 16:34:57,350: root :INFO:This is an info:
+2021-01-15 16:34:57,350: root :ERROR:This is an erro:
+2021-01-15 16:34:57,350: root :INFO:Reading file : start
+2021-01-15 16:34:57,375: root :INFO:reading file : end
+2021-01-15 16:34:57,375: root :INFO:Choosing random word : start
+2021-01-15 16:34:57,375: root :INFO:Choosing random word : start
+2021-01-15 16:35:18,787: root :INFO:This is an info:
+2021-01-15 16:35:18,787: root :ERROR:This is an erro:
+2021-01-15 16:35:18,787: root :INFO:Reading file : start
+2021-01-15 16:35:18,810: root :INFO:reading file : end
+2021-01-15 16:35:18,810: root :INFO:Choosing random word : start
+2021-01-15 16:35:18,810: root :INFO:Choosing random word : start
+2021-01-15 16:37:31,730: root :INFO:This is an info:
+2021-01-15 16:37:31,731: root :ERROR:This is an erro:
+2021-01-15 16:37:31,731: root :INFO:Reading file : start
+2021-01-15 16:37:31,754: root :INFO:reading file : end
+2021-01-15 16:37:31,754: root :INFO:Choosing random word : start
+2021-01-15 16:37:31,755: root :INFO:Choosing random word : start
+2021-01-15 16:38:05,862: root :INFO:This is an info:
+2021-01-15 16:38:05,862: root :ERROR:This is an erro:
+2021-01-15 16:38:05,862: root :INFO:Reading file : start
+2021-01-15 16:38:05,886: root :INFO:reading file : end
+2021-01-15 16:38:05,887: root :INFO:Choosing random word : start
+2021-01-15 16:38:05,887: root :INFO:Choosing random word : start
+2021-01-15 16:39:33,421: root :INFO:This is an info:
+2021-01-15 16:39:33,422: root :ERROR:This is an erro:
+2021-01-15 16:39:33,422: root :INFO:Reading file : start
+2021-01-15 16:39:33,449: root :INFO:reading file : end
+2021-01-15 16:39:33,449: root :INFO:Choosing random word : start
+2021-01-15 16:39:33,449: root :INFO:Choosing random word : start
+2021-01-15 16:45:28,226: root :INFO:This is an info:
+2021-01-15 16:45:28,226: root :ERROR:This is an erro:
+2021-01-15 16:45:28,227: root :INFO:Reading file : start
+2021-01-15 16:45:28,252: root :INFO:reading file : end
+2021-01-15 16:45:28,252: root :INFO:Choosing random word : start
+2021-01-15 16:45:28,253: root :INFO:Choosing random word : start
+2021-01-15 16:45:33,940: root :INFO:This is an info:
+2021-01-15 16:45:33,940: root :ERROR:This is an erro:
+2021-01-15 16:45:33,940: root :INFO:Reading file : start
+2021-01-15 16:45:33,965: root :INFO:reading file : end
+2021-01-15 16:45:33,965: root :INFO:Choosing random word : start
+2021-01-15 16:45:33,965: root :INFO:Choosing random word : start
+2021-01-15 16:48:48,302: root :INFO:This is an info:
+2021-01-15 16:48:48,302: root :ERROR:This is an erro:
+2021-01-15 16:48:48,302: root :INFO:Reading file : start
+2021-01-15 16:48:48,326: root :INFO:reading file : end
+2021-01-15 16:48:48,326: root :INFO:Choosing random word : start
+2021-01-15 16:48:48,326: root :INFO:Choosing random word : start
+2021-01-15 16:50:30,497: root :INFO:This is an info:
+2021-01-15 16:50:30,497: root :ERROR:This is an erro:
+2021-01-15 16:50:30,498: root :INFO:Reading file : start
+2021-01-15 16:50:30,520: root :INFO:reading file : end
+2021-01-15 16:50:30,520: root :INFO:Choosing random word : start
+2021-01-15 16:50:30,520: root :INFO:Choosing random word : start
+2021-01-15 16:50:56,834: root :INFO:This is an info:
+2021-01-15 16:50:56,835: root :ERROR:This is an erro:
+2021-01-15 16:50:56,835: root :INFO:Reading file : start
+2021-01-15 16:50:56,858: root :INFO:reading file : end
+2021-01-15 16:50:56,858: root :INFO:Choosing random word : start
+2021-01-15 16:50:56,858: root :INFO:Choosing random word : start
+2021-01-15 16:53:58,010: root :INFO:This is an info:
+2021-01-15 16:53:58,010: root :ERROR:This is an erro:
+2021-01-15 16:53:58,010: root :INFO:Reading file : start
+2021-01-15 16:53:58,034: root :INFO:reading file : end
+2021-01-15 16:53:58,034: root :INFO:Choosing random word : start
+2021-01-15 16:53:58,034: root :INFO:Choosing random word : start
+2021-01-15 16:54:05,114: root :INFO:This is an info:
+2021-01-15 16:54:05,115: root :ERROR:This is an erro:
+2021-01-15 16:54:05,115: root :INFO:Reading file : start
+2021-01-15 16:54:05,138: root :INFO:reading file : end
+2021-01-15 16:54:05,138: root :INFO:Choosing random word : start
+2021-01-15 16:54:05,138: root :INFO:Choosing random word : start
+2021-01-15 17:17:49,547: root :INFO:This is an info:
+2021-01-15 17:17:49,548: root :ERROR:This is an erro:
+2021-01-15 17:17:49,548: root :INFO:Reading file : start
+2021-01-15 17:17:49,573: root :INFO:reading file : end
+2021-01-15 17:17:49,574: root :INFO:Choosing random word : start
+2021-01-15 17:17:49,574: root :INFO:Choosing random word : start
+2021-01-15 17:17:59,246: root :INFO:This is an info:
+2021-01-15 17:17:59,246: root :ERROR:This is an erro:
+2021-01-15 17:17:59,246: root :INFO:Reading file : start
+2021-01-15 17:17:59,269: root :INFO:reading file : end
+2021-01-15 17:17:59,269: root :INFO:Choosing random word : start
+2021-01-15 17:17:59,269: root :INFO:Choosing random word : start
+2021-01-15 17:20:13,143: root :INFO:This is an info:
+2021-01-15 17:20:13,143: root :ERROR:This is an erro:
+2021-01-15 17:20:13,143: root :INFO:Reading file : start
+2021-01-15 17:20:13,167: root :INFO:reading file : end
+2021-01-15 17:20:13,167: root :INFO:Choosing random word : start
+2021-01-15 17:20:13,167: root :INFO:Choosing random word : start
+2021-01-15 17:21:38,185: root :INFO:This is an info:
+2021-01-15 17:21:38,185: root :ERROR:This is an erro:
+2021-01-15 17:21:38,185: root :INFO:Reading file : start
+2021-01-15 17:21:38,208: root :INFO:reading file : end
+2021-01-15 17:21:38,208: root :INFO:Choosing random word : start
+2021-01-15 17:21:38,208: root :INFO:Choosing random word : start
+2021-01-16 12:30:15,814: root :INFO:This is an info:
+2021-01-16 12:30:15,816: root :ERROR:This is an erro:
+2021-01-16 12:30:15,816: root :INFO:Reading file : start
+2021-01-16 12:30:15,845: root :INFO:reading file : end
+2021-01-16 12:30:15,845: root :INFO:Choosing random word : start
+2021-01-16 12:30:15,845: root :INFO:Choosing random word : start
+2021-01-16 12:31:31,485: root :INFO:This is an info:
+2021-01-16 12:31:31,485: root :ERROR:This is an erro:
+2021-01-16 12:31:31,485: root :INFO:Reading file : start
+2021-01-16 12:31:31,518: root :INFO:reading file : end
+2021-01-16 12:31:31,518: root :INFO:Choosing random word : start
+2021-01-16 12:31:31,518: root :INFO:Choosing random word : start
+2021-01-16 14:35:28,054: root :INFO:This is an info:
+2021-01-16 14:35:28,054: root :ERROR:This is an erro:
+2021-01-16 14:35:28,055: root :INFO:Reading file : start
+2021-01-16 14:35:28,078: root :INFO:reading file : end
+2021-01-16 14:35:28,078: root :INFO:Choosing random word : start
+2021-01-16 14:35:28,078: root :INFO:Choosing random word : start
+2021-01-16 14:44:52,626: root :INFO:This is an info:
+2021-01-16 14:44:52,627: root :ERROR:This is an erro:
+2021-01-16 14:44:52,627: root :INFO:Reading file : start
+2021-01-16 14:44:52,656: root :INFO:reading file : end
+2021-01-16 14:44:52,657: root :INFO:Choosing random word : start
+2021-01-16 14:44:52,657: root :INFO:Choosing random word : start
+2021-01-16 14:45:15,255: root :INFO:This is an info:
+2021-01-16 14:45:15,255: root :ERROR:This is an erro:
+2021-01-16 14:45:15,255: root :INFO:Reading file : start
+2021-01-16 14:45:15,278: root :INFO:reading file : end
+2021-01-16 14:45:15,279: root :INFO:Choosing random word : start
+2021-01-16 14:45:15,279: root :INFO:Choosing random word : start
+2021-01-16 14:46:18,014: root :INFO:This is an info:
+2021-01-16 14:46:18,014: root :ERROR:This is an erro:
+2021-01-16 14:46:18,014: root :INFO:Reading file : start
+2021-01-16 14:46:18,051: root :INFO:reading file : end
+2021-01-16 14:46:18,051: root :INFO:Choosing random word : start
+2021-01-16 14:46:18,052: root :INFO:Choosing random word : start
+2021-01-16 16:27:23,796: root :INFO:This is an info:
+2021-01-16 16:27:23,796: root :ERROR:This is an error:
+2021-01-16 16:27:23,796: root :INFO:Reading file : start
+2021-01-16 16:27:23,820: root :INFO:reading file : end
+2021-01-16 16:27:23,820: root :INFO:Choosing random word : start
+2021-01-16 16:27:23,820: root :INFO:Choosing random word : start
+2021-01-16 16:28:41,690: root :INFO:This is an info:
+2021-01-16 16:28:41,690: root :ERROR:This is an error:
+2021-01-16 16:28:41,690: root :INFO:Reading file : start
+2021-01-16 16:28:41,714: root :INFO:reading file : end
+2021-01-16 16:28:41,714: root :INFO:Choosing random word : start
+2021-01-16 16:28:41,714: root :INFO:Choosing random word : start
+2021-01-18 09:07:11,974: root :INFO:This is an info:
+2021-01-18 09:07:11,976: root :ERROR:This is an error:
+2021-01-18 09:07:11,976: root :INFO:Reading file : start
+2021-01-18 09:07:12,010: root :INFO:reading file : end
+2021-01-18 09:07:12,011: root :INFO:Choosing random word : start
+2021-01-18 09:07:36,186: root :INFO:This is an info:
+2021-01-18 09:07:36,187: root :ERROR:This is an error:
+2021-01-18 09:07:36,187: root :INFO:Reading file : start
+2021-01-18 09:07:36,209: root :INFO:reading file : end
+2021-01-18 09:07:36,209: root :INFO:Choosing random word : start
+2021-01-19 18:31:35,322: root :INFO:This is an info:
+2021-01-19 18:31:35,323: root :ERROR:This is an error:
+2021-01-19 18:31:35,323: root :INFO:Reading file : start
+2021-01-19 18:31:35,361: root :INFO:reading file : end
+2021-01-19 18:31:35,361: root :INFO:Choosing random word : start
+2021-01-19 18:31:53,979: root :INFO:This is an info:
+2021-01-19 18:31:53,979: root :ERROR:This is an error:
+2021-01-19 18:31:53,979: root :INFO:Reading file : start
+2021-01-19 18:31:54,029: root :INFO:reading file : end
+2021-01-19 18:31:54,030: root :INFO:Choosing random word : start
+2021-01-19 18:35:10,127: root :INFO:This is an info:
+2021-01-19 18:35:10,127: root :ERROR:This is an error:
+2021-01-19 18:35:10,127: root :INFO:Reading file : start
+2021-01-19 18:35:10,167: root :INFO:reading file : end
+2021-01-19 18:35:10,167: root :INFO:Choosing random word : start
+2021-01-19 18:38:41,653: root :INFO:This is an info:
+2021-01-19 18:38:41,654: root :ERROR:This is an error:
+2021-01-19 18:38:41,654: root :INFO:Reading file : start
+2021-01-19 18:38:41,697: root :INFO:reading file : end
+2021-01-19 18:38:41,697: root :INFO:Choosing random word : start
+2021-01-19 18:39:01,064: root :INFO:This is an info:
+2021-01-19 18:39:01,064: root :ERROR:This is an error:
+2021-01-19 18:39:01,064: root :INFO:Reading file : start
+2021-01-19 18:39:01,096: root :INFO:reading file : end
+2021-01-19 18:39:01,096: root :INFO:Choosing random word : start
+2021-01-19 18:39:22,351: root :INFO:This is an info:
+2021-01-19 18:39:22,352: root :ERROR:This is an error:
+2021-01-19 18:39:22,352: root :INFO:Reading file : start
+2021-01-19 18:39:22,492: root :INFO:reading file : end
+2021-01-19 18:39:22,492: root :INFO:Choosing random word : start
+2021-01-19 18:43:11,780: root :INFO:This is an info:
+2021-01-19 18:43:11,780: root :ERROR:This is an error:
+2021-01-19 18:43:11,780: root :INFO:Reading file : start
+2021-01-19 18:43:11,813: root :INFO:reading file : end
+2021-01-19 18:43:11,813: root :INFO:Choosing random word : start
+2021-01-19 18:44:55,903: root :INFO:This is an info:
+2021-01-19 18:44:55,903: root :ERROR:This is an error:
+2021-01-19 18:44:55,903: root :INFO:Reading file : start
+2021-01-19 18:44:55,939: root :INFO:reading file : end
+2021-01-19 18:44:55,939: root :INFO:Choosing random word : start
+2021-01-19 18:45:37,729: root :INFO:This is an info:
+2021-01-19 18:45:37,729: root :ERROR:This is an error:
+2021-01-19 18:45:37,729: root :INFO:Reading file : start
+2021-01-19 18:45:37,768: root :INFO:reading file : end
+2021-01-19 18:45:37,768: root :INFO:Choosing random word : start
+2021-01-19 18:47:17,851: root :INFO:This is an info:
+2021-01-19 18:47:17,852: root :ERROR:This is an error:
+2021-01-19 18:47:17,852: root :INFO:Reading file : start
+2021-01-19 18:47:17,921: root :INFO:reading file : end
+2021-01-19 18:47:17,921: root :INFO:Choosing random word : start
+2021-01-19 18:48:28,385: root :INFO:This is an info:
+2021-01-19 18:48:28,385: root :ERROR:This is an error:
+2021-01-19 18:48:28,385: root :INFO:Reading file : start
+2021-01-19 18:48:28,437: root :INFO:reading file : end
+2021-01-19 18:48:28,438: root :INFO:Choosing random word : start
+2021-01-19 18:48:52,537: root :INFO:This is an info:
+2021-01-19 18:48:52,537: root :ERROR:This is an error:
+2021-01-19 18:48:52,537: root :INFO:Reading file : start
+2021-01-19 18:48:52,579: root :INFO:reading file : end
+2021-01-19 18:48:52,579: root :INFO:Choosing random word : start
+2021-01-19 18:49:21,412: root :INFO:This is an info:
+2021-01-19 18:49:21,412: root :ERROR:This is an error:
+2021-01-19 18:49:21,412: root :INFO:Reading file : start
+2021-01-19 18:49:21,452: root :INFO:reading file : end
+2021-01-19 18:49:21,452: root :INFO:Choosing random word : start
+2021-01-19 18:49:38,630: root :INFO:This is an info:
+2021-01-19 18:49:38,630: root :ERROR:This is an error:
+2021-01-19 18:49:38,630: root :INFO:Reading file : start
+2021-01-19 18:49:38,662: root :INFO:reading file : end
+2021-01-19 18:49:38,662: root :INFO:Choosing random word : start
+2021-01-19 18:50:01,515: root :INFO:This is an info:
+2021-01-19 18:50:01,515: root :ERROR:This is an error:
+2021-01-19 18:50:01,515: root :INFO:Reading file : start
+2021-01-19 18:50:01,545: root :INFO:reading file : end
+2021-01-19 18:50:01,545: root :INFO:Choosing random word : start
+2021-01-19 19:59:18,673: root :INFO:This is an info:
+2021-01-19 19:59:18,674: root :ERROR:This is an error:
+2021-01-19 19:59:18,674: root :INFO:Reading file : start
+2021-01-19 19:59:18,712: root :INFO:reading file : end
+2021-01-19 19:59:18,712: root :INFO:Choosing random word : start
+2021-01-19 20:00:31,776: root :INFO:This is an info:
+2021-01-19 20:00:31,777: root :ERROR:This is an error:
+2021-01-19 20:00:31,777: root :INFO:Reading file : start
+2021-01-19 20:00:31,812: root :INFO:reading file : end
+2021-01-19 20:00:31,812: root :INFO:Choosing random word : start
+2021-01-19 20:01:03,014: root :INFO:This is an info:
+2021-01-19 20:01:03,015: root :ERROR:This is an error:
+2021-01-19 20:01:03,015: root :INFO:Reading file : start
+2021-01-19 20:01:03,038: root :INFO:reading file : end
+2021-01-19 20:01:03,038: root :INFO:Choosing random word : start
+2021-01-19 20:03:09,035: root :INFO:This is an info:
+2021-01-19 20:03:09,035: root :ERROR:This is an error:
+2021-01-19 20:03:09,035: root :INFO:Reading file : start
+2021-01-19 20:03:09,059: root :INFO:reading file : end
+2021-01-19 20:03:09,059: root :INFO:Choosing random word : start
+2021-01-19 20:03:27,990: root :INFO:This is an info:
+2021-01-19 20:03:27,990: root :ERROR:This is an error:
+2021-01-19 20:03:27,990: root :INFO:Reading file : start
+2021-01-19 20:03:28,013: root :INFO:reading file : end
+2021-01-19 20:03:28,014: root :INFO:Choosing random word : start
+2021-01-19 20:04:28,664: root :INFO:This is an info:
+2021-01-19 20:04:28,665: root :ERROR:This is an error:
+2021-01-19 20:04:28,665: root :INFO:Reading file : start
+2021-01-19 20:04:28,698: root :INFO:reading file : end
+2021-01-19 20:04:28,698: root :INFO:Choosing random word : start
+2021-01-19 20:04:45,505: root :INFO:This is an info:
+2021-01-19 20:04:45,506: root :ERROR:This is an error:
+2021-01-19 20:04:45,506: root :INFO:Reading file : start
+2021-01-19 20:04:45,529: root :INFO:reading file : end
+2021-01-19 20:04:45,530: root :INFO:Choosing random word : start
+2021-01-19 20:05:00,053: root :INFO:This is an info:
+2021-01-19 20:05:00,053: root :ERROR:This is an error:
+2021-01-19 20:05:00,053: root :INFO:Reading file : start
+2021-01-19 20:05:00,078: root :INFO:reading file : end
+2021-01-19 20:05:00,078: root :INFO:Choosing random word : start
+2021-01-19 20:06:12,672: root :INFO:This is an info:
+2021-01-19 20:06:12,673: root :ERROR:This is an error:
+2021-01-19 20:06:12,673: root :INFO:Reading file : start
+2021-01-19 20:06:12,695: root :INFO:reading file : end
+2021-01-19 20:06:12,696: root :INFO:Choosing random word : start
+2021-01-19 20:07:14,964: root :INFO:This is an info:
+2021-01-19 20:07:14,964: root :ERROR:This is an error:
+2021-01-19 20:07:14,964: root :INFO:Reading file : start
+2021-01-19 20:07:14,988: root :INFO:reading file : end
+2021-01-19 20:07:14,988: root :INFO:Choosing random word : start
+2021-01-19 20:10:29,956: root :INFO:This is an info:
+2021-01-19 20:10:29,956: root :ERROR:This is an error:
+2021-01-19 20:10:29,956: root :INFO:Reading file : start
+2021-01-19 20:10:30,008: root :INFO:reading file : end
+2021-01-19 20:10:30,008: root :INFO:Choosing random word : start
+2021-01-19 20:10:42,050: root :INFO:This is an info:
+2021-01-19 20:10:42,050: root :ERROR:This is an error:
+2021-01-19 20:10:42,050: root :INFO:Reading file : start
+2021-01-19 20:10:42,073: root :INFO:reading file : end
+2021-01-19 20:10:42,073: root :INFO:Choosing random word : start
+2021-01-19 20:11:20,328: root :INFO:This is an info:
+2021-01-19 20:11:20,328: root :ERROR:This is an error:
+2021-01-19 20:11:20,328: root :INFO:Reading file : start
+2021-01-19 20:11:20,354: root :INFO:reading file : end
+2021-01-19 20:11:20,354: root :INFO:Choosing random word : start
+2021-01-19 20:11:47,988: root :INFO:This is an info:
+2021-01-19 20:11:47,988: root :ERROR:This is an error:
+2021-01-19 20:11:47,989: root :INFO:Reading file : start
+2021-01-19 20:11:48,013: root :INFO:reading file : end
+2021-01-19 20:11:48,013: root :INFO:Choosing random word : start
+2021-01-19 21:01:24,082: root :INFO:This is an info:
+2021-01-19 21:01:24,083: root :ERROR:This is an error:
+2021-01-19 21:01:24,084: root :INFO:Reading file : start
+2021-01-19 21:01:24,117: root :INFO:reading file : end
+2021-01-19 21:01:24,117: root :INFO:Choosing random word : start
+2021-01-19 21:02:50,235: root :INFO:This is an info:
+2021-01-19 21:02:50,236: root :ERROR:This is an error:
+2021-01-19 21:02:50,236: root :INFO:Reading file : start
+2021-01-19 21:02:50,277: root :INFO:reading file : end
+2021-01-19 21:02:50,277: root :INFO:Choosing random word : start
+2021-01-19 21:05:58,355: root :INFO:This is an info:
+2021-01-19 21:05:58,356: root :ERROR:This is an error:
+2021-01-19 21:05:58,356: root :INFO:Reading file : start
+2021-01-19 21:05:58,408: root :INFO:reading file : end
+2021-01-19 21:05:58,408: root :INFO:Choosing random word : start
+2021-01-19 21:07:06,285: root :INFO:This is an info:
+2021-01-19 21:07:06,285: root :ERROR:This is an error:
+2021-01-19 21:07:06,285: root :INFO:Reading file : start
+2021-01-19 21:07:06,314: root :INFO:reading file : end
+2021-01-19 21:07:06,315: root :INFO:Choosing random word : start
+2021-01-19 21:09:36,585: root :INFO:This is an info:
+2021-01-19 21:09:36,586: root :ERROR:This is an error:
+2021-01-19 21:09:36,586: root :INFO:Reading file : start
+2021-01-19 21:09:36,624: root :INFO:reading file : end
+2021-01-19 21:09:36,624: root :INFO:Choosing random word : start
+2021-01-19 21:09:56,945: root :INFO:This is an info:
+2021-01-19 21:09:56,945: root :ERROR:This is an error:
+2021-01-19 21:09:56,945: root :INFO:Reading file : start
+2021-01-19 21:09:56,973: root :INFO:reading file : end
+2021-01-19 21:09:56,973: root :INFO:Choosing random word : start
+2021-01-19 21:12:02,211: root :INFO:This is an info:
+2021-01-19 21:12:02,211: root :ERROR:This is an error:
+2021-01-19 21:12:02,212: root :INFO:Reading file : start
+2021-01-19 21:12:02,243: root :INFO:reading file : end
+2021-01-19 21:12:02,243: root :INFO:Choosing random word : start
+2021-01-19 21:12:16,220: root :INFO:This is an info:
+2021-01-19 21:12:16,220: root :ERROR:This is an error:
+2021-01-19 21:12:16,220: root :INFO:Reading file : start
+2021-01-19 21:12:16,249: root :INFO:reading file : end
+2021-01-19 21:12:16,249: root :INFO:Choosing random word : start
+2021-01-19 21:13:08,757: root :INFO:This is an info:
+2021-01-19 21:13:08,757: root :ERROR:This is an error:
+2021-01-19 21:13:08,758: root :INFO:Reading file : start
+2021-01-19 21:13:08,786: root :INFO:reading file : end
+2021-01-19 21:13:08,786: root :INFO:Choosing random word : start
+2021-01-19 21:13:20,405: root :INFO:This is an info:
+2021-01-19 21:13:20,405: root :ERROR:This is an error:
+2021-01-19 21:13:20,405: root :INFO:Reading file : start
+2021-01-19 21:13:20,431: root :INFO:reading file : end
+2021-01-19 21:13:20,432: root :INFO:Choosing random word : start
+2021-01-19 21:13:55,313: root :INFO:This is an info:
+2021-01-19 21:13:55,314: root :ERROR:This is an error:
+2021-01-19 21:13:55,314: root :INFO:Reading file : start
+2021-01-19 21:13:55,339: root :INFO:reading file : end
+2021-01-19 21:13:55,339: root :INFO:Choosing random word : start
+2021-01-19 21:20:13,938: root :INFO:This is an info:
+2021-01-19 21:20:13,940: root :ERROR:This is an error:
+2021-01-19 21:20:13,940: root :INFO:Reading file : start
+2021-01-19 21:20:13,977: root :INFO:reading file : end
+2021-01-19 21:20:13,977: root :INFO:Choosing random word : start
+2021-01-19 21:25:02,451: root :INFO:This is an info:
+2021-01-19 21:25:02,452: root :ERROR:This is an error:
+2021-01-19 21:25:02,452: root :INFO:Reading file : start
+2021-01-19 21:25:02,483: root :INFO:reading file : end
+2021-01-19 21:25:02,483: root :INFO:Choosing random word : start
+2021-01-19 21:26:57,998: root :INFO:This is an info:
+2021-01-19 21:26:57,998: root :ERROR:This is an error:
+2021-01-19 21:26:57,998: root :INFO:Reading file : start
+2021-01-19 21:26:58,023: root :INFO:reading file : end
+2021-01-19 21:26:58,024: root :INFO:Choosing random word : start
+2021-01-19 21:27:27,443: root :INFO:This is an info:
+2021-01-19 21:27:27,443: root :ERROR:This is an error:
+2021-01-19 21:27:27,443: root :INFO:Reading file : start
+2021-01-19 21:27:27,477: root :INFO:reading file : end
+2021-01-19 21:27:27,477: root :INFO:Choosing random word : start
+2021-01-19 21:27:58,948: root :INFO:This is an info:
+2021-01-19 21:27:58,950: root :ERROR:This is an error:
+2021-01-19 21:27:58,950: root :INFO:Reading file : start
+2021-01-19 21:27:58,985: root :INFO:reading file : end
+2021-01-19 21:27:58,986: root :INFO:Choosing random word : start
+2021-01-19 21:29:30,608: root :INFO:This is an info:
+2021-01-19 21:29:30,609: root :ERROR:This is an error:
+2021-01-19 21:29:30,609: root :INFO:Reading file : start
+2021-01-19 21:29:30,644: root :INFO:reading file : end
+2021-01-19 21:29:30,645: root :INFO:Choosing random word : start
+2021-01-20 09:37:06,088: root :INFO:This is an info:
+2021-01-20 09:37:06,089: root :ERROR:This is an error:
+2021-01-20 09:37:06,089: root :INFO:Reading file : start
+2021-01-20 09:37:06,119: root :INFO:reading file : end
+2021-01-20 09:37:06,119: root :INFO:Choosing random word : start
+2021-01-20 10:18:27,402: root :INFO:This is an info:
+2021-01-20 10:18:27,402: root :ERROR:This is an error:
+2021-01-20 10:18:27,402: root :INFO:Reading file : start
+2021-01-20 10:18:27,424: root :INFO:reading file : end
+2021-01-20 10:18:27,425: root :INFO:Choosing random word : start
+2021-01-20 10:22:58,989: root :INFO:This is an info:
+2021-01-20 10:22:58,989: root :ERROR:This is an error:
+2021-01-20 10:22:58,989: root :INFO:Reading file : start
+2021-01-20 10:22:59,014: root :INFO:reading file : end
+2021-01-20 10:22:59,014: root :INFO:Choosing random word : start
+2021-01-20 10:26:09,953: root :INFO:This is an info:
+2021-01-20 10:26:09,953: root :ERROR:This is an error:
+2021-01-20 10:26:09,953: root :INFO:Reading file : start
+2021-01-20 10:26:09,976: root :INFO:reading file : end
+2021-01-20 10:26:09,976: root :INFO:Choosing random word : start
+2021-01-20 10:28:30,062: root :INFO:This is an info:
+2021-01-20 10:28:30,063: root :ERROR:This is an error:
+2021-01-20 10:28:30,063: root :INFO:Reading file : start
+2021-01-20 10:28:30,086: root :INFO:reading file : end
+2021-01-20 10:28:30,086: root :INFO:Choosing random word : start
+2021-01-20 10:29:25,272: root :INFO:This is an info:
+2021-01-20 10:29:25,275: root :ERROR:This is an error:
+2021-01-20 10:29:25,275: root :INFO:Reading file : start
+2021-01-20 10:29:25,300: root :INFO:reading file : end
+2021-01-20 10:29:25,300: root :INFO:Choosing random word : start
+2021-01-20 10:32:23,725: root :INFO:This is an info:
+2021-01-20 10:32:23,725: root :ERROR:This is an error:
+2021-01-20 10:32:23,725: root :INFO:Reading file : start
+2021-01-20 10:32:23,748: root :INFO:reading file : end
+2021-01-20 10:32:23,748: root :INFO:Choosing random word : start
+2021-01-20 10:34:23,854: root :INFO:This is an info:
+2021-01-20 10:34:23,854: root :ERROR:This is an error:
+2021-01-20 10:34:23,855: root :INFO:Reading file : start
+2021-01-20 10:34:23,877: root :INFO:reading file : end
+2021-01-20 10:34:23,877: root :INFO:Choosing random word : start
+2021-01-20 10:38:00,314: root :INFO:This is an info:
+2021-01-20 10:38:00,314: root :ERROR:This is an error:
+2021-01-20 10:38:00,314: root :INFO:Reading file : start
+2021-01-20 10:38:00,337: root :INFO:reading file : end
+2021-01-20 10:38:00,337: root :INFO:Choosing random word : start
+2021-01-20 10:39:06,780: root :INFO:This is an info:
+2021-01-20 10:39:06,781: root :ERROR:This is an error:
+2021-01-20 10:39:06,781: root :INFO:Reading file : start
+2021-01-20 10:39:06,807: root :INFO:reading file : end
+2021-01-20 10:39:06,807: root :INFO:Choosing random word : start
+2021-01-20 10:39:14,015: root :INFO:This is an info:
+2021-01-20 10:39:14,015: root :ERROR:This is an error:
+2021-01-20 10:39:14,015: root :INFO:Reading file : start
+2021-01-20 10:39:14,038: root :INFO:reading file : end
+2021-01-20 10:39:14,038: root :INFO:Choosing random word : start
+2021-01-20 10:44:51,247: root :INFO:This is an info:
+2021-01-20 10:44:51,247: root :ERROR:This is an error:
+2021-01-20 10:44:51,247: root :INFO:Reading file : start
+2021-01-20 10:44:51,270: root :INFO:reading file : end
+2021-01-20 10:44:51,271: root :INFO:Choosing random word : start
+2021-01-20 10:45:32,535: root :INFO:This is an info:
+2021-01-20 10:45:32,535: root :ERROR:This is an error:
+2021-01-20 10:45:32,536: root :INFO:Reading file : start
+2021-01-20 10:45:32,558: root :INFO:reading file : end
+2021-01-20 10:45:32,559: root :INFO:Choosing random word : start
+2021-01-20 10:46:05,380: root :INFO:This is an info:
+2021-01-20 10:46:05,380: root :ERROR:This is an error:
+2021-01-20 10:46:05,380: root :INFO:Reading file : start
+2021-01-20 10:46:05,403: root :INFO:reading file : end
+2021-01-20 10:46:05,403: root :INFO:Choosing random word : start
+2021-01-20 10:51:46,825: root :INFO:This is an info:
+2021-01-20 10:51:46,825: root :ERROR:This is an error:
+2021-01-20 10:51:46,825: root :INFO:Reading file : start
+2021-01-20 10:51:46,852: root :INFO:reading file : end
+2021-01-20 10:51:46,852: root :INFO:Choosing random word : start
+2021-01-20 10:52:05,162: root :INFO:This is an info:
+2021-01-20 10:52:05,163: root :ERROR:This is an error:
+2021-01-20 10:52:05,163: root :INFO:Reading file : start
+2021-01-20 10:52:05,189: root :INFO:reading file : end
+2021-01-20 10:52:05,190: root :INFO:Choosing random word : start
+2021-01-20 10:52:39,058: root :INFO:This is an info:
+2021-01-20 10:52:39,059: root :ERROR:This is an error:
+2021-01-20 10:52:39,059: root :INFO:Reading file : start
+2021-01-20 10:52:39,081: root :INFO:reading file : end
+2021-01-20 10:52:39,081: root :INFO:Choosing random word : start
+2021-01-20 10:54:49,101: root :INFO:This is an info:
+2021-01-20 10:54:49,101: root :ERROR:This is an error:
+2021-01-20 10:54:49,101: root :INFO:Reading file : start
+2021-01-20 10:54:49,124: root :INFO:reading file : end
+2021-01-20 10:54:49,124: root :INFO:Choosing random word : start
+2021-01-20 10:55:05,904: root :INFO:This is an info:
+2021-01-20 10:55:05,905: root :ERROR:This is an error:
+2021-01-20 10:55:05,905: root :INFO:Reading file : start
+2021-01-20 10:55:05,927: root :INFO:reading file : end
+2021-01-20 10:55:05,927: root :INFO:Choosing random word : start
+2021-01-20 10:55:45,938: root :INFO:This is an info:
+2021-01-20 10:55:45,939: root :ERROR:This is an error:
+2021-01-20 10:55:45,939: root :INFO:Reading file : start
+2021-01-20 10:55:45,961: root :INFO:reading file : end
+2021-01-20 10:55:45,962: root :INFO:Choosing random word : start
+2021-01-20 10:56:00,786: root :INFO:This is an info:
+2021-01-20 10:56:00,786: root :ERROR:This is an error:
+2021-01-20 10:56:00,786: root :INFO:Reading file : start
+2021-01-20 10:56:00,809: root :INFO:reading file : end
+2021-01-20 10:56:00,809: root :INFO:Choosing random word : start
+2021-01-20 10:57:24,704: root :INFO:This is an info:
+2021-01-20 10:57:24,704: root :ERROR:This is an error:
+2021-01-20 10:57:24,704: root :INFO:Reading file : start
+2021-01-20 10:57:24,730: root :INFO:reading file : end
+2021-01-20 10:57:24,731: root :INFO:Choosing random word : start
+2021-01-20 10:58:00,780: root :INFO:This is an info:
+2021-01-20 10:58:00,780: root :ERROR:This is an error:
+2021-01-20 10:58:00,780: root :INFO:Reading file : start
+2021-01-20 10:58:00,806: root :INFO:reading file : end
+2021-01-20 10:58:00,809: root :INFO:Choosing random word : start
+2021-01-20 11:04:39,586: root :INFO:This is an info:
+2021-01-20 11:04:39,587: root :ERROR:This is an error:
+2021-01-20 11:04:39,587: root :INFO:Reading file : start
+2021-01-20 11:04:39,610: root :INFO:reading file : end
+2021-01-20 11:04:39,610: root :INFO:Choosing random word : start
+2021-01-20 11:05:02,278: root :INFO:This is an info:
+2021-01-20 11:05:02,278: root :ERROR:This is an error:
+2021-01-20 11:05:02,278: root :INFO:Reading file : start
+2021-01-20 11:05:02,304: root :INFO:reading file : end
+2021-01-20 11:05:02,304: root :INFO:Choosing random word : start
+2021-01-20 11:06:34,653: root :INFO:This is an info:
+2021-01-20 11:06:34,653: root :ERROR:This is an error:
+2021-01-20 11:06:34,653: root :INFO:Reading file : start
+2021-01-20 11:06:34,676: root :INFO:reading file : end
+2021-01-20 11:06:34,676: root :INFO:Choosing random word : start
+2021-01-20 11:06:59,283: root :INFO:This is an info:
+2021-01-20 11:06:59,283: root :ERROR:This is an error:
+2021-01-20 11:06:59,283: root :INFO:Reading file : start
+2021-01-20 11:06:59,306: root :INFO:reading file : end
+2021-01-20 11:06:59,307: root :INFO:Choosing random word : start
+2021-01-20 11:11:53,774: root :INFO:This is an info:
+2021-01-20 11:11:53,774: root :ERROR:This is an error:
+2021-01-20 11:11:53,774: root :INFO:Reading file : start
+2021-01-20 11:11:53,797: root :INFO:reading file : end
+2021-01-20 11:11:53,797: root :INFO:Choosing random word : start
+2021-01-20 11:12:56,959: root :INFO:This is an info:
+2021-01-20 11:12:56,960: root :ERROR:This is an error:
+2021-01-20 11:12:56,960: root :INFO:Reading file : start
+2021-01-20 11:12:56,983: root :INFO:reading file : end
+2021-01-20 11:12:56,983: root :INFO:Choosing random word : start
+2021-01-20 11:13:14,843: root :INFO:This is an info:
+2021-01-20 11:13:14,843: root :ERROR:This is an error:
+2021-01-20 11:13:14,844: root :INFO:Reading file : start
+2021-01-20 11:13:14,875: root :INFO:reading file : end
+2021-01-20 11:13:14,875: root :INFO:Choosing random word : start
+2021-01-20 11:13:38,240: root :INFO:This is an info:
+2021-01-20 11:13:38,240: root :ERROR:This is an error:
+2021-01-20 11:13:38,241: root :INFO:Reading file : start
+2021-01-20 11:13:38,264: root :INFO:reading file : end
+2021-01-20 11:13:38,264: root :INFO:Choosing random word : start
+2021-01-20 11:14:20,167: root :INFO:This is an info:
+2021-01-20 11:14:20,167: root :ERROR:This is an error:
+2021-01-20 11:14:20,167: root :INFO:Reading file : start
+2021-01-20 11:14:20,192: root :INFO:reading file : end
+2021-01-20 11:14:20,192: root :INFO:Choosing random word : start
+2021-01-20 11:14:40,541: root :INFO:This is an info:
+2021-01-20 11:14:40,541: root :ERROR:This is an error:
+2021-01-20 11:14:40,541: root :INFO:Reading file : start
+2021-01-20 11:14:40,564: root :INFO:reading file : end
+2021-01-20 11:14:40,565: root :INFO:Choosing random word : start
+2021-01-20 11:15:50,991: root :INFO:This is an info:
+2021-01-20 11:15:50,991: root :ERROR:This is an error:
+2021-01-20 11:15:50,991: root :INFO:Reading file : start
+2021-01-20 11:15:51,014: root :INFO:reading file : end
+2021-01-20 11:15:51,015: root :INFO:Choosing random word : start
+2021-01-20 11:17:15,145: root :INFO:This is an info:
+2021-01-20 11:17:15,145: root :ERROR:This is an error:
+2021-01-20 11:17:15,145: root :INFO:Reading file : start
+2021-01-20 11:17:15,168: root :INFO:reading file : end
+2021-01-20 11:17:15,169: root :INFO:Choosing random word : start
+2021-01-20 11:18:24,177: root :INFO:This is an info:
+2021-01-20 11:18:24,177: root :ERROR:This is an error:
+2021-01-20 11:18:24,177: root :INFO:Reading file : start
+2021-01-20 11:18:24,200: root :INFO:reading file : end
+2021-01-20 11:18:24,201: root :INFO:Choosing random word : start
+2021-01-20 11:18:58,504: root :INFO:This is an info:
+2021-01-20 11:18:58,504: root :ERROR:This is an error:
+2021-01-20 11:18:58,504: root :INFO:Reading file : start
+2021-01-20 11:18:58,531: root :INFO:reading file : end
+2021-01-20 11:18:58,531: root :INFO:Choosing random word : start
+2021-01-20 11:19:21,102: root :INFO:This is an info:
+2021-01-20 11:19:21,102: root :ERROR:This is an error:
+2021-01-20 11:19:21,102: root :INFO:Reading file : start
+2021-01-20 11:19:21,125: root :INFO:reading file : end
+2021-01-20 11:19:21,125: root :INFO:Choosing random word : start
+2021-01-20 11:19:35,142: root :INFO:This is an info:
+2021-01-20 11:19:35,143: root :ERROR:This is an error:
+2021-01-20 11:19:35,143: root :INFO:Reading file : start
+2021-01-20 11:19:35,166: root :INFO:reading file : end
+2021-01-20 11:19:35,167: root :INFO:Choosing random word : start
+2021-01-20 11:20:13,689: root :INFO:This is an info:
+2021-01-20 11:20:13,689: root :ERROR:This is an error:
+2021-01-20 11:20:13,689: root :INFO:Reading file : start
+2021-01-20 11:20:13,712: root :INFO:reading file : end
+2021-01-20 11:20:13,713: root :INFO:Choosing random word : start
+2021-01-20 11:21:38,310: root :INFO:This is an info:
+2021-01-20 11:21:38,310: root :ERROR:This is an error:
+2021-01-20 11:21:38,310: root :INFO:Reading file : start
+2021-01-20 11:21:38,333: root :INFO:reading file : end
+2021-01-20 11:21:38,333: root :INFO:Choosing random word : start
+2021-01-20 11:21:57,576: root :INFO:This is an info:
+2021-01-20 11:21:57,576: root :ERROR:This is an error:
+2021-01-20 11:21:57,576: root :INFO:Reading file : start
+2021-01-20 11:21:57,599: root :INFO:reading file : end
+2021-01-20 11:21:57,600: root :INFO:Choosing random word : start
+2021-01-20 11:22:39,421: root :INFO:This is an info:
+2021-01-20 11:22:39,421: root :ERROR:This is an error:
+2021-01-20 11:22:39,421: root :INFO:Reading file : start
+2021-01-20 11:22:39,445: root :INFO:reading file : end
+2021-01-20 11:22:39,446: root :INFO:Choosing random word : start
+2021-01-20 11:23:36,186: root :INFO:This is an info:
+2021-01-20 11:23:36,186: root :ERROR:This is an error:
+2021-01-20 11:23:36,186: root :INFO:Reading file : start
+2021-01-20 11:23:36,210: root :INFO:reading file : end
+2021-01-20 11:23:36,210: root :INFO:Choosing random word : start
+2021-01-20 11:24:11,489: root :INFO:This is an info:
+2021-01-20 11:24:11,489: root :ERROR:This is an error:
+2021-01-20 11:24:11,489: root :INFO:Reading file : start
+2021-01-20 11:24:11,513: root :INFO:reading file : end
+2021-01-20 11:24:11,513: root :INFO:Choosing random word : start
+2021-01-20 11:25:17,947: root :INFO:This is an info:
+2021-01-20 11:25:17,947: root :ERROR:This is an error:
+2021-01-20 11:25:17,947: root :INFO:Reading file : start
+2021-01-20 11:25:17,970: root :INFO:reading file : end
+2021-01-20 11:25:17,970: root :INFO:Choosing random word : start
+2021-01-20 11:25:56,536: root :INFO:This is an info:
+2021-01-20 11:25:56,536: root :ERROR:This is an error:
+2021-01-20 11:25:56,536: root :INFO:Reading file : start
+2021-01-20 11:25:56,560: root :INFO:reading file : end
+2021-01-20 11:25:56,560: root :INFO:Choosing random word : start
+2021-01-20 11:27:22,984: root :INFO:This is an info:
+2021-01-20 11:27:22,984: root :ERROR:This is an error:
+2021-01-20 11:27:22,984: root :INFO:Reading file : start
+2021-01-20 11:27:23,009: root :INFO:reading file : end
+2021-01-20 11:27:23,009: root :INFO:Choosing random word : start
+2021-01-20 11:28:03,990: root :INFO:This is an info:
+2021-01-20 11:28:03,990: root :ERROR:This is an error:
+2021-01-20 11:28:03,990: root :INFO:Reading file : start
+2021-01-20 11:28:04,013: root :INFO:reading file : end
+2021-01-20 11:28:04,013: root :INFO:Choosing random word : start
+2021-01-20 11:28:47,597: root :INFO:This is an info:
+2021-01-20 11:28:47,597: root :ERROR:This is an error:
+2021-01-20 11:28:47,597: root :INFO:Reading file : start
+2021-01-20 11:28:47,621: root :INFO:reading file : end
+2021-01-20 11:28:47,621: root :INFO:Choosing random word : start
+2021-01-20 11:31:10,846: root :INFO:This is an info:
+2021-01-20 11:31:10,846: root :ERROR:This is an error:
+2021-01-20 11:31:10,846: root :INFO:Reading file : start
+2021-01-20 11:31:10,870: root :INFO:reading file : end
+2021-01-20 11:31:10,870: root :INFO:Choosing random word : start
+2021-01-20 11:36:24,203: root :INFO:This is an info:
+2021-01-20 11:36:24,203: root :ERROR:This is an error:
+2021-01-20 11:36:24,203: root :INFO:Reading file : start
+2021-01-20 11:36:24,226: root :INFO:reading file : end
+2021-01-20 11:36:24,226: root :INFO:Choosing random word : start
+2021-01-20 11:38:21,137: root :INFO:This is an info:
+2021-01-20 11:38:21,137: root :ERROR:This is an error:
+2021-01-20 11:38:21,137: root :INFO:Reading file : start
+2021-01-20 11:38:21,166: root :INFO:reading file : end
+2021-01-20 11:38:21,166: root :INFO:Choosing random word : start
+2021-01-20 11:41:35,539: root :INFO:This is an info:
+2021-01-20 11:41:35,539: root :ERROR:This is an error:
+2021-01-20 11:41:35,539: root :INFO:Reading file : start
+2021-01-20 11:41:35,563: root :INFO:reading file : end
+2021-01-20 11:41:35,563: root :INFO:Choosing random word : start
+2021-01-20 11:42:06,147: root :INFO:This is an info:
+2021-01-20 11:42:06,148: root :ERROR:This is an error:
+2021-01-20 11:42:06,148: root :INFO:Reading file : start
+2021-01-20 11:42:06,174: root :INFO:reading file : end
+2021-01-20 11:42:06,174: root :INFO:Choosing random word : start
+2021-01-20 11:42:36,027: root :INFO:This is an info:
+2021-01-20 11:42:36,027: root :ERROR:This is an error:
+2021-01-20 11:42:36,027: root :INFO:Reading file : start
+2021-01-20 11:42:36,051: root :INFO:reading file : end
+2021-01-20 11:42:36,051: root :INFO:Choosing random word : start
+2021-01-20 11:43:24,633: root :INFO:This is an info:
+2021-01-20 11:43:24,633: root :ERROR:This is an error:
+2021-01-20 11:43:24,633: root :INFO:Reading file : start
+2021-01-20 11:43:24,656: root :INFO:reading file : end
+2021-01-20 11:43:24,656: root :INFO:Choosing random word : start
+2021-01-20 11:43:51,621: root :INFO:This is an info:
+2021-01-20 11:43:51,621: root :ERROR:This is an error:
+2021-01-20 11:43:51,621: root :INFO:Reading file : start
+2021-01-20 11:43:51,644: root :INFO:reading file : end
+2021-01-20 11:43:51,645: root :INFO:Choosing random word : start
+2021-01-20 11:44:24,100: root :INFO:This is an info:
+2021-01-20 11:44:24,101: root :ERROR:This is an error:
+2021-01-20 11:44:24,101: root :INFO:Reading file : start
+2021-01-20 11:44:24,125: root :INFO:reading file : end
+2021-01-20 11:44:24,125: root :INFO:Choosing random word : start
+2021-01-20 11:44:47,771: root :INFO:This is an info:
+2021-01-20 11:44:47,774: root :ERROR:This is an error:
+2021-01-20 11:44:47,774: root :INFO:Reading file : start
+2021-01-20 11:44:47,801: root :INFO:reading file : end
+2021-01-20 11:44:47,802: root :INFO:Choosing random word : start
+2021-01-20 11:54:13,018: root :INFO:This is an info:
+2021-01-20 11:54:13,018: root :ERROR:This is an error:
+2021-01-20 11:54:13,018: root :INFO:Reading file : start
+2021-01-20 11:54:13,041: root :INFO:reading file : end
+2021-01-20 11:54:13,042: root :INFO:Choosing random word : start
+2021-01-20 11:54:57,343: root :INFO:This is an info:
+2021-01-20 11:54:57,343: root :ERROR:This is an error:
+2021-01-20 11:54:57,343: root :INFO:Reading file : start
+2021-01-20 11:54:57,367: root :INFO:reading file : end
+2021-01-20 11:54:57,367: root :INFO:Choosing random word : start
+2021-01-20 12:04:23,068: root :INFO:This is an info:
+2021-01-20 12:04:23,068: root :ERROR:This is an error:
+2021-01-20 12:04:23,068: root :INFO:Reading file : start
+2021-01-20 12:04:23,093: root :INFO:reading file : end
+2021-01-20 12:04:23,093: root :INFO:Choosing random word : start
+2021-01-20 12:04:44,334: root :INFO:This is an info:
+2021-01-20 12:04:44,335: root :ERROR:This is an error:
+2021-01-20 12:04:44,335: root :INFO:Reading file : start
+2021-01-20 12:04:44,358: root :INFO:reading file : end
+2021-01-20 12:04:44,358: root :INFO:Choosing random word : start
+2021-01-20 12:04:58,760: root :INFO:This is an info:
+2021-01-20 12:04:58,760: root :ERROR:This is an error:
+2021-01-20 12:04:58,760: root :INFO:Reading file : start
+2021-01-20 12:04:58,785: root :INFO:reading file : end
+2021-01-20 12:04:58,785: root :INFO:Choosing random word : start
+2021-01-20 12:05:11,462: root :INFO:This is an info:
+2021-01-20 12:05:11,462: root :ERROR:This is an error:
+2021-01-20 12:05:11,462: root :INFO:Reading file : start
+2021-01-20 12:05:11,486: root :INFO:reading file : end
+2021-01-20 12:05:11,486: root :INFO:Choosing random word : start
+2021-01-20 12:05:22,920: root :INFO:This is an info:
+2021-01-20 12:05:22,920: root :ERROR:This is an error:
+2021-01-20 12:05:22,920: root :INFO:Reading file : start
+2021-01-20 12:05:22,946: root :INFO:reading file : end
+2021-01-20 12:05:22,946: root :INFO:Choosing random word : start
+2021-01-20 12:05:58,900: root :INFO:This is an info:
+2021-01-20 12:05:58,900: root :ERROR:This is an error:
+2021-01-20 12:05:58,900: root :INFO:Reading file : start
+2021-01-20 12:05:58,924: root :INFO:reading file : end
+2021-01-20 12:05:58,924: root :INFO:Choosing random word : start
+2021-01-20 12:06:39,216: root :INFO:This is an info:
+2021-01-20 12:06:39,216: root :ERROR:This is an error:
+2021-01-20 12:06:39,216: root :INFO:Reading file : start
+2021-01-20 12:06:39,239: root :INFO:reading file : end
+2021-01-20 12:06:39,239: root :INFO:Choosing random word : start
+2021-01-20 12:15:29,666: root :INFO:This is an info:
+2021-01-20 12:15:29,666: root :ERROR:This is an error:
+2021-01-20 12:15:29,666: root :INFO:Reading file : start
+2021-01-20 12:15:29,689: root :INFO:reading file : end
+2021-01-20 12:15:29,690: root :INFO:Choosing random word : start
+2021-01-20 12:15:48,070: root :INFO:This is an info:
+2021-01-20 12:15:48,071: root :ERROR:This is an error:
+2021-01-20 12:15:48,071: root :INFO:Reading file : start
+2021-01-20 12:15:48,093: root :INFO:reading file : end
+2021-01-20 12:15:48,093: root :INFO:Choosing random word : start
+2021-01-20 12:18:23,179: root :INFO:This is an info:
+2021-01-20 12:18:23,179: root :ERROR:This is an error:
+2021-01-20 12:18:23,179: root :INFO:Reading file : start
+2021-01-20 12:18:23,201: root :INFO:reading file : end
+2021-01-20 12:18:23,202: root :INFO:Choosing random word : start
+2021-01-20 12:18:36,753: root :INFO:This is an info:
+2021-01-20 12:18:36,753: root :ERROR:This is an error:
+2021-01-20 12:18:36,753: root :INFO:Reading file : start
+2021-01-20 12:18:36,777: root :INFO:reading file : end
+2021-01-20 12:18:36,777: root :INFO:Choosing random word : start
+2021-01-20 12:20:31,985: root :INFO:This is an info:
+2021-01-20 12:20:31,985: root :ERROR:This is an error:
+2021-01-20 12:20:31,985: root :INFO:Reading file : start
+2021-01-20 12:20:32,010: root :INFO:reading file : end
+2021-01-20 12:20:32,010: root :INFO:Choosing random word : start
+2021-01-20 12:21:03,876: root :INFO:This is an info:
+2021-01-20 12:21:03,876: root :ERROR:This is an error:
+2021-01-20 12:21:03,876: root :INFO:Reading file : start
+2021-01-20 12:21:03,900: root :INFO:reading file : end
+2021-01-20 12:21:03,900: root :INFO:Choosing random word : start
+2021-01-20 12:22:05,503: root :INFO:This is an info:
+2021-01-20 12:22:05,503: root :ERROR:This is an error:
+2021-01-20 12:22:05,504: root :INFO:Reading file : start
+2021-01-20 12:22:05,527: root :INFO:reading file : end
+2021-01-20 12:22:05,528: root :INFO:Choosing random word : start
+2021-01-20 12:23:06,594: root :INFO:This is an info:
+2021-01-20 12:23:06,594: root :ERROR:This is an error:
+2021-01-20 12:23:06,594: root :INFO:Reading file : start
+2021-01-20 12:23:06,621: root :INFO:reading file : end
+2021-01-20 12:23:06,621: root :INFO:Choosing random word : start
+2021-01-20 12:23:11,440: root :INFO:This is an info:
+2021-01-20 12:23:11,440: root :ERROR:This is an error:
+2021-01-20 12:23:11,440: root :INFO:Reading file : start
+2021-01-20 12:23:11,466: root :INFO:reading file : end
+2021-01-20 12:23:11,466: root :INFO:Choosing random word : start
+2021-01-20 12:23:48,064: root :INFO:This is an info:
+2021-01-20 12:23:48,064: root :ERROR:This is an error:
+2021-01-20 12:23:48,064: root :INFO:Reading file : start
+2021-01-20 12:23:48,088: root :INFO:reading file : end
+2021-01-20 12:23:48,088: root :INFO:Choosing random word : start
+2021-01-20 12:24:31,505: root :INFO:This is an info:
+2021-01-20 12:24:31,505: root :ERROR:This is an error:
+2021-01-20 12:24:31,505: root :INFO:Reading file : start
+2021-01-20 12:24:31,529: root :INFO:reading file : end
+2021-01-20 12:24:31,530: root :INFO:Choosing random word : start
+2021-01-20 12:25:26,784: root :INFO:This is an info:
+2021-01-20 12:25:26,784: root :ERROR:This is an error:
+2021-01-20 12:25:26,784: root :INFO:Reading file : start
+2021-01-20 12:25:26,807: root :INFO:reading file : end
+2021-01-20 12:25:26,808: root :INFO:Choosing random word : start
+2021-01-20 12:27:05,282: root :INFO:This is an info:
+2021-01-20 12:27:05,282: root :ERROR:This is an error:
+2021-01-20 12:27:05,282: root :INFO:Reading file : start
+2021-01-20 12:27:05,304: root :INFO:reading file : end
+2021-01-20 12:27:05,305: root :INFO:Choosing random word : start
+2021-01-20 12:28:30,256: root :INFO:This is an info:
+2021-01-20 12:28:30,256: root :ERROR:This is an error:
+2021-01-20 12:28:30,256: root :INFO:Reading file : start
+2021-01-20 12:28:30,280: root :INFO:reading file : end
+2021-01-20 12:28:30,280: root :INFO:Choosing random word : start
+2021-01-20 12:28:53,072: root :INFO:This is an info:
+2021-01-20 12:28:53,072: root :ERROR:This is an error:
+2021-01-20 12:28:53,072: root :INFO:Reading file : start
+2021-01-20 12:28:53,096: root :INFO:reading file : end
+2021-01-20 12:28:53,096: root :INFO:Choosing random word : start
+2021-01-20 12:35:11,184: root :INFO:This is an info:
+2021-01-20 12:35:11,184: root :ERROR:This is an error:
+2021-01-20 12:35:11,184: root :INFO:Reading file : start
+2021-01-20 12:35:11,207: root :INFO:reading file : end
+2021-01-20 12:35:11,207: root :INFO:Choosing random word : start
+2021-01-20 12:38:47,803: root :INFO:This is an info:
+2021-01-20 12:38:47,804: root :ERROR:This is an error:
+2021-01-20 12:38:47,804: root :INFO:Reading file : start
+2021-01-20 12:38:47,827: root :INFO:reading file : end
+2021-01-20 12:38:47,827: root :INFO:Choosing random word : start
+2021-01-20 12:39:40,499: root :INFO:This is an info:
+2021-01-20 12:39:40,499: root :ERROR:This is an error:
+2021-01-20 12:39:40,499: root :INFO:Reading file : start
+2021-01-20 12:39:40,523: root :INFO:reading file : end
+2021-01-20 12:39:40,523: root :INFO:Choosing random word : start
